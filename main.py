@@ -7,6 +7,8 @@ class Automovil:
     self.velocidad=velocidad
 au=Automovil()
 print(au.ruedas)
+#otro metodo acá
+
 
 
   
